@@ -1,12 +1,16 @@
 {
-    "font_face": "Consolas"
-    , "font_size": 18
-    , "tab_size": 4
-    , "translate_tabs_to_spaces": true
-    , "word_wrap": true
-    , "draw_white_space": "all"
-    , "ignored_packages": [
-        "Markdown"
-        , "Vintage"
+    "draw_white_space": "all",
+    "font_face": "Consolas",
+    "font_size": 19,
+    "ignored_packages":
+    [
+        "Markdown",
+        "Vintage"
+    ],
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "word_wrap": true,
+    "file_exclude_patterns":[
+        "*.meta"
     ]
 }
